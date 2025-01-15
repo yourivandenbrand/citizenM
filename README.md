@@ -1,5 +1,5 @@
 # Assessment CitizenM
 
-Clone repo
-npm install
+Clone repo,
+npm install,
 npm run dev
