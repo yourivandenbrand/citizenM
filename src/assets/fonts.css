@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Chalet';
+    src: url('/fonts/Chalet-NewYorkNineteenSixty.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 500;  /* Reduced from 500 to 400 to compensate for browser rendering */
+    font-display: swap;
+  }
